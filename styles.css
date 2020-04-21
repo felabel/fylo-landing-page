@@ -1,0 +1,158 @@
+
+#par1{
+    margin-bottom: 3rem;
+    margin-left: 5%;
+}
+
+.logo{
+    position: relative;
+    right: 12px;
+    padding: 1.5rem 1.2rem;
+}
+
+.navbar-item{
+    margin: 0 10px;
+}
+
+.sub1{
+    margin-top: 4rem;
+    text-align: left;
+}
+
+.img1{
+    max-width: 50%;
+    max-height: 35%;
+    float: right;
+    margin-right: 2rem;
+}
+
+.sub-text{
+    margin-right: 40%;
+    font-size: 20px;
+    color: hsl(0, 0%, 75%);
+}
+
+.box{
+    width: 30%;
+}
+
+.btn1{
+    position: relative;
+    left: 28rem;
+    bottom: 2.4rem;
+    width: 13%;
+}
+
+#par2{
+    margin-top: 21rem;
+}
+
+.subpar{
+    background-color: hsl(240, 75%, 98%);
+    padding-bottom: 5rem;
+}
+
+.heading{
+    margin-left: 5%;
+}
+
+.content{
+    margin-right: 60%;
+    margin-left: 5%;
+}
+
+.link1{
+    border-bottom: 1px solid;
+    padding-bottom: 3px;
+    color: hsl(170, 45%, 43%);
+    margin-left: 5%;
+    
+}
+
+.review{
+    margin-right: 70%;
+    position: relative;
+    left: 4.4rem;
+}
+
+.testimonial-img{
+    float: left;
+    border-radius: 100%;
+    width: 20%;
+    left: 2rem;
+}
+
+.designation{
+    font-size: 0.7rem;
+}
+
+.img2{
+    width: 45%;
+    height: 35%;
+    float: right;
+    position: relative;
+    right: 2rem;
+}
+
+#par3{
+    color: #fff;
+    background-color: hsl(238, 22%, 44%);
+    padding-top: 4.5rem;
+}
+
+.header-2{
+    margin-left: 5%;
+}
+
+.paragraph-2{
+    margin-right: 70%;
+    margin-left: 5%;
+}
+
+.button{
+    float: right;
+    margin-right: 40%;
+    position: relative;
+    bottom: 7.5rem;
+    left: 6.8rem;
+}
+
+.box-3{
+    position: relative;
+    left: 50rem;
+    bottom: 8rem;
+}
+
+#par4{
+    background-color: hsl(243, 87%, 12%);
+    color: white;
+    padding: 5rem 2rem;
+}
+
+.end-logo{
+    margin-left: 3%;
+    
+}
+
+.contacts-info{
+    margin-left: 5%;
+}
+
+.endline{
+    text-align: center;
+    position: relative;
+    bottom: 5.8rem;
+}
+
+pre{
+    color: #fff;
+}
+
+.terms{
+    text-align: right;
+    position: relative;
+    right: 10rem;
+    bottom: 17rem;
+
+}
+
